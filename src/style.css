@@ -1,1 +1,47 @@
-/* Acá va tu código */
+body{
+	background-color: #DEC2C2;
+}
+
+
+
+#nav-decode-encode{
+	background-color: #1A1818;
+	height: 5em;
+}
+
+.btn{
+	margin-left: 4em;
+}
+
+.text-area{
+	margin-left: 25%;
+	margin-top: 2em; 
+	width: 50%;
+	height: 15em;
+	border-color: #E93212;
+
+}
+
+#offsetNumber{
+	margin-top: 1.5em;
+	margin-left: 1.5em;
+	border-color: #E93212; 
+}
+
+.img{
+	height: 9em
+}
+
+.container{
+	margin-left: 1em;
+}
+
+.clean-copy-btn{
+	margin-bottom: 17em;
+	margin-left: 3em;
+
+}
+
+
+
+
