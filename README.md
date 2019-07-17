@@ -19,7 +19,7 @@ Pensamos en una interfaz simple, para lo cual utilizamos una única pantalla don
 
 Flujo de usuario:
 ![flujo de usuario en papel](http://www.imagenonline.com/imagenes/1/1212-0b505bb5c7ece922906bf8a6e8261857ec8e3e12.jpg)
-Protoripo de baja fiadelidad:
+Prototipo de baja fidelidad:
 ![prototipo de baja fidelidad en papel](http://www.imagenonline.com/imagenes/1/1213-59edccc36fe42417e5af95932fc01cd5d32a0b4c.jpg)
 
 ## Paleta de colores
